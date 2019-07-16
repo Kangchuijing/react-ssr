@@ -1,3 +1,4 @@
+> 感谢原作者的代码，此代码是有效的并且清晰易懂
 # React Server Side Rendering
 A baseline for server side rendering for your React application. This repo has a couple of tags that follow building full support for rendering React applications on the server.
 
